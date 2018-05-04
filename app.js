@@ -23,6 +23,10 @@ function fn_e() {
     console.log("fn_e");
 }
 
+function fn_f() {
+    console.log("fn_f");
+}
+
 fn_a();
 
 fn_b();
