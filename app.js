@@ -41,6 +41,10 @@ function fn_j() {
 }
 
 
+function fn_i() {
+    console.log("fn_i");
+}
+
 fn_a();
 
 fn_b();
