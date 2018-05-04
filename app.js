@@ -8,7 +8,7 @@ function fn_b() {
 
 function fn_c() {
     //fn_c 리모델링
-    console("리모델링 fn_c");
+    console("fn_c");
 }
 
 
