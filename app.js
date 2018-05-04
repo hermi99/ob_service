@@ -27,6 +27,11 @@ function fn_f() {
     console.log("fn_f");
 }
 
+
+function fn_g() {
+    console.log("fn_g");
+}
+
 fn_a();
 
 fn_b();
