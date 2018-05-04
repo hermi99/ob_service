@@ -11,6 +11,10 @@ function fn_c() {
 }
 
 
+function fn_d() {
+    console("fn_c");
+}
+
 console.log('hello');
 
 fn_a();
@@ -18,3 +22,5 @@ fn_a();
 fn_b();
 
 fn_c();
+
+fn_d();
