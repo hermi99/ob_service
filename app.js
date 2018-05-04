@@ -10,7 +10,8 @@ function fn_c() {
     //fn_c 리모델링
     console("fn_c");
     console("리모델링 fn_c");
-    console("리모델링 추가 fn_c");    
+    console("리모델링 추가 fn_c");
+    console("리모델링 추가2 fn_c");    
 }
 
 
