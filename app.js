@@ -36,6 +36,10 @@ function fn_h() {
     console.log("fn_h");
 }
 
+function fn_j() {
+    console.log("fn_j");
+}
+
 
 fn_a();
 
