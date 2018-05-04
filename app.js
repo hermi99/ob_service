@@ -15,10 +15,12 @@ function fn_c() {
 
 
 function fn_d() {
-    console("fn_c");
+    console.log("fn_d");
 }
 
-console.log('hello');
+function fn_e() {
+    console.log("fn_e");
+}
 
 fn_a();
 
