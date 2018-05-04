@@ -32,6 +32,11 @@ function fn_g() {
     console.log("fn_g");
 }
 
+function fn_h() {
+    console.log("fn_h");
+}
+
+
 fn_a();
 
 fn_b();
